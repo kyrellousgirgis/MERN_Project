@@ -1,0 +1,7 @@
+Node is on port 3000
+
+cd to redux_kyrellous before npm start in react folder 
+
+It's prefered to upload square photos
+
+Thank you
